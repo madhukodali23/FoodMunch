@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-scroll": "^1.9.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
