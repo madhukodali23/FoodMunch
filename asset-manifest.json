@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodMunch/static/css/main.8596690a.css",
+    "main.js": "/FoodMunch/static/js/main.b78a56ca.js",
+    "index.html": "/FoodMunch/index.html",
+    "main.8596690a.css.map": "/FoodMunch/static/css/main.8596690a.css.map",
+    "main.b78a56ca.js.map": "/FoodMunch/static/js/main.b78a56ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8596690a.css",
+    "static/js/main.b78a56ca.js"
+  ]
+}
